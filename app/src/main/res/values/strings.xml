@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StoryGame</string>
+    <string name="Btn1">Button</string>
+    <string name="Btn2">Button</string>
+    <string name="Btn3">Button</string>
+    <string name="hello_world">Hello world</string>
 </resources>
