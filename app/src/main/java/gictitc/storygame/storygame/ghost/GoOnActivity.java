@@ -1,13 +1,15 @@
-package gictitc.storygame.storygame;
+package gictitc.storygame.storygame.ghost;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import gictitc.storygame.storygame.R;
+
+public class GoOnActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_go_on);
     }
 }

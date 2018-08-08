@@ -4,4 +4,24 @@
     <string name="Btn2">Button</string>
     <string name="Btn3">Button</string>
     <string name="hello_world">Hello world</string>
+    <string name="setText">"Are you sure to START game?\n        \n    "</string>
+    <string name="story_ghost1">
+        " On vocation night. My friends and I drive to suburb town.
+        It's a midnight and we don't have any pleases or hotel to stay in. Suddenly we see an old hotel that
+        \n stand in the forest. The hotel look like abandonment hotel, no guest, silence and we see only 3 people in the hotel.
+        We heard some strong sound around the road.
+        \n Some of my friend so scare of that sound.
+        Because of that strong sound and the darkness of that night.
+        we need a place to stay but we don't want that hotel.
+        \n Q: You want to stay or go on to find a new  one better than that hotel?\n \n \n   "</string>
+    <string name="stay">Stay</string>
+    <string name="go_on">go on</string>
+    <string name="show_story">Show story</string>
+    <string name="back">Back</string>
+    <string name="start">start</string>
+    <string name="list_of_menu">List of Menu</string>
+    <string name="love">Love</string>
+    <string name="ghost">Ghost</string>
+    <string name="sad">Sad</string>
+
 </resources>
